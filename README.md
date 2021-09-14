@@ -11,10 +11,13 @@
 
 ## About The Project
 
-This is a CNN model built with Tensorflow for binary classification of images. It is a part of GPU-Hackathon. 
+This is a CNN model built with Tensorflow for binary classification of images. It is a part of India Academia Connect AI Hackathon. 
+
 Dataset contains Training and testing sets. 
-Train folder - NON TEXT images are stored in 'background' sub folder and TEXT images are stored in 'hi' sub folder.
-Test folder - Contains both TEXT and NON-TEXT images to be classified with label 1 for TEXT images and label 0 for NON_TEXT images.
+
+Training dataset folder - NON TEXT images are stored in 'background' sub folder and TEXT images are stored in 'hi' sub folder.
+
+Test dataset folder - Contains both TEXT and NON-TEXT images to be classified with label 1 for TEXT images and label 0 for NON_TEXT images.
 
 ## Built With
 
