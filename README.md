@@ -28,14 +28,17 @@ Test dataset folder - Contains both TEXT and NON-TEXT images to be classified wi
 * [Numpy](https://numpy.org/)
 * [OpenCV](https://opencv.org/)
 * [Matplotlib](https://matplotlib.org/)
+* [Jupyter Notebook](https://jupyter.org/)
+
+
 
 ## Overview
 
+Model             |  Loss Function
+:-------------------------:|:-------------------------:
+<img align="left" width="400" height="800" alt='model' src="https://github.com/Hello-Peter-GPU-Hackathon/CNN-Image-Classification/blob/main/model.png">  |  <img width = '400' height = '400' alt = 'loss function' src = 'https://github.com/Hello-Peter-GPU-Hackathon/CNN-Image-Classification/blob/main/books_read.png' >
+A graphical representation of the CNN model. | A graphical representation of the loss function.
 
-### Model 
-![Model]()
-A graphical representation of the CNN model.
 
-### Model Summary
-![Model Summary]()
-A brief summary of the CNN model.
+
+
