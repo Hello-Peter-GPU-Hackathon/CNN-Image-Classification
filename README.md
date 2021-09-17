@@ -26,9 +26,13 @@ Test dataset folder - Contains both TEXT and NON-TEXT images to be classified wi
 * [TensorFlow](https://www.tensorflow.org/)
 * [Keras](https://keras.io/)
 * [Numpy](https://numpy.org/)
+* [Pandas](https://pandas.pydata.org/)
 * [OpenCV](https://opencv.org/)
 * [Matplotlib](https://matplotlib.org/)
-* [Jupyter Notebook](https://jupyter.org/)
+
+*We have used **Google Colab** for writing and executing the python code.* 
+
+
 
 
 
@@ -36,7 +40,7 @@ Test dataset folder - Contains both TEXT and NON-TEXT images to be classified wi
 
 Model             |  Loss Function
 :-------------------------:|:-------------------------:
-<img align="left" width="400" height="800" alt='model' src="https://github.com/Hello-Peter-GPU-Hackathon/CNN-Image-Classification/blob/main/model.png">  |  <img width = '400' height = '400' alt = 'loss function' src = 'https://github.com/Hello-Peter-GPU-Hackathon/CNN-Image-Classification/blob/main/books_read.png' >
+<img align="left" width="400" height="800" alt='model' src="https://github.com/Hello-Peter-GPU-Hackathon/CNN-Image-Classification/blob/main/model.png">  |  <img width = '600' height = '400' alt = 'loss function' src = 'https://github.com/Hello-Peter-GPU-Hackathon/CNN-Image-Classification/blob/main/books_read.png' >
 A graphical representation of the CNN model. | A graphical representation of the loss function.
 
 
